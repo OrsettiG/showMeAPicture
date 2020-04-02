@@ -22,7 +22,7 @@ namespace showMeAPicture
 {
     public sealed partial class MainPage : Page
     {
-        const string SubscriptionKey = "642966d981c14b50ad2db91851aa940b";
+        const string SubscriptionKey = "";
         const string URIBase = "https://api.cognitive.microsoft.com/bing/v7.0/images/search";
         public MainPage()
         {
